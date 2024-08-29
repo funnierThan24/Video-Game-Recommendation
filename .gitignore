@@ -1,0 +1,8 @@
+games.csv
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# MacOS files
+.DS_Store
